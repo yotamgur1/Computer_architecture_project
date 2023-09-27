@@ -17,7 +17,7 @@ This repository contains my final project for a computer architecture course. In
 
 To run the simulator, you will need to provide the following files:
 
-1. **cfg.txt (Input)**: This file specifies the number of calculation units for different types of calculations and their respective delays. You can configure these parameters to fit your needs.
+1. **cfg.txt (Input)**: This file specifies the number of calculation units for different types of calculations and their respective delays. These parameters can be configured to simulate different processor architectures.
 
 2. **memin.txt (Input)**: This file specifies the initial state of the 4096 lines of the hard disk memory at the beginning of the run.
 
