@@ -6,7 +6,7 @@ This repository contains my final project for a computer architecture course. In
 
 - **Language**: The project is written in the C language.
 - **Application**: It is built as a command-line application named `sim.exe`. The full line is: `sim.exe cfg.t cfg.txt memin.txt memout.txt regout.txt traceinst.txt traceunit.txt`
-- **Input Files**: To run this application, you will need to provide six input files (listed at the end of this README).
+- **Files**: All the required command-line files are included. At the end of this README, you will find explanations for each file, along with examples of correct output based on the provided input.
 - **Processor Units**: The processor consists of several basic units, including:
 
   - **Internal Clock**: The processor operates on an internal clock where each cycle executes one instruction.
